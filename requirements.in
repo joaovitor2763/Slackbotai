@@ -1,0 +1,4 @@
+requests
+python-decouple
+slack_bolt
+openai
